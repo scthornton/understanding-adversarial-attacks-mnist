@@ -1,0 +1,14 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Optional but recommended
+tqdm>=4.65.0  # Progress bars
+pillow>=10.0.0  # Image loading
