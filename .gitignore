@@ -61,3 +61,14 @@ saved_models/
 tmp/
 temp/
 *.tmp
+
+# AI tool artifacts
+.claude/
+CLAUDE.md
+claude.md
+planning.md
+status.md
+notes.md
+todo.md
+*.chat
+*.conversation
